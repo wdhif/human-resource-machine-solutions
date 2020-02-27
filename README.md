@@ -10,7 +10,7 @@ This repo contains working solutions, in hopes of exchanging ideas to collaborat
 
 The file naming convention used is:
 
-`<level>-<level name>.<size>].<speed>.asm`
+`<level>-<level name>.<size>.<speed>.asm`
 
 Where `size` and `speed` are the optimization of the current code according to the game.
 
